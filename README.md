@@ -45,11 +45,6 @@ A simple Laravel REST API for user management.
 
 ## 📄 API Documentation
 
-### Swagger/OpenAPI
-
-- File dokumentasi: [`openapi.yaml`](openapi.yaml)
-- Bisa dibuka di [Swagger Editor](https://editor.swagger.io/) atau Swagger UI.
-
 ### User Management Endpoints
 
 #### Get All Users
